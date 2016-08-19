@@ -1,2 +1,2 @@
 # trial_version
-A trial for me
+A trial for me.
